@@ -1,2 +1,2 @@
-snake: snake.c
-	gcc snake.c -lncurses -o snake
+snake: snake_game.c
+	gcc snake_game.c -lncurses -o snake_game
